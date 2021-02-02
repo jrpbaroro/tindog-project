@@ -94,7 +94,6 @@ h1 {
    font-size: 3rem;
    line-height: 1.5;
    font-weight: 900;
-   text-align: left;
 
 }
 
@@ -157,7 +156,7 @@ p {
 
 /*************TITLE IMAGE*************/
 .title-image {
-  width: 50%;
+  width: 60%;
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
