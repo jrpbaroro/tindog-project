@@ -156,13 +156,13 @@ p {
 
 /*************TITLE IMAGE*************/
 .title-image {
-  width: 48%;
+  width: 60%;
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
 }
 
-@media (max-width: 965px){
+@media (max-width: 1020px){
 
   #title {
     text-align: center;
